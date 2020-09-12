@@ -1,4 +1,11 @@
 # studyCafe
+**: 개발기간**
+2월 12 ~ 2월 25일
+**: 개발 인원 및 역할**
+- 이우택 : GUI, 로그인, 로그아웃 및 회원가입
+- 정혜인 : GUI,예약하기, 문의 사항,  유지보수
+- 최대한(조장) : GUI, 마이페이지
+- 최유정 : GUI, DB설계, 이용 안내, 노트북 대여 및 음료 구매, 연필 충전, 유지보수
 ## 로그인 및 회원가입
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FnnLgm%2FbtqDQsEu94H%2FlOQwc6W8q8OY7xkVlMOCV0%2Fimg.png" width="100%">
 <img src= "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fxy75e%2FbtqDOHiubyg%2FIGdiUgJ0ce6YKATKiOHFd0%2Fimg.png" width="100%">
